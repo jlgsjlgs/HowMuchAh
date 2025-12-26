@@ -1,0 +1,6 @@
+[submodule "HowMuchAh-frontend"]
+	path = HowMuchAh-frontend
+	url = git@github.com:jlgsjlgs/HowMuchAh-frontend.git
+[submodule "HowMuchAh-backend"]
+	path = HowMuchAh-backend
+	url = git@github.com:jlgsjlgs/HowMuchAh-backend.git
