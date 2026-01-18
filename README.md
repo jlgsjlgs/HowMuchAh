@@ -42,6 +42,7 @@ HowMuchAh is a full-stack expense tracking and settlement application that helps
 - **Group Management**
   - Create and manage expense groups
   - Invite members via email
+  - Shareable invitation links with usage limits and expiration
   - Real-time invitation notifications via WebSocket
   - Owner-only controls for group settings
 
@@ -180,12 +181,12 @@ For detailed setup instructions, refer to the individual repositories:
 - ✅ Automated settlement calculations
 - ✅ Real-time WebSocket notifications
 - ✅ Mobile-responsive UI
+- ✅ Email invitations and shareable invitation links
 - ✅ Deployed to production (Vercel + Railway)
 
 **Planned Features:**
 - [ ] Expense analytics
 - [ ] Export transaction and settlement history
-- [ ] Email notifications
 - [ ] User personalization features
 
 ## Contributing
